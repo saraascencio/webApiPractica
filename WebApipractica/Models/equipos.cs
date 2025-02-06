@@ -27,6 +27,5 @@ namespace WebApipractica.Models
        
 
 
-
     }
 }
